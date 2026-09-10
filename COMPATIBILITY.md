@@ -1,7 +1,5 @@
 # Compatibility
 
-Таблица протестированных устройств.
-
 | Device | Android | ROM | Shizuku | DesyncDroyd | Broadband provider | Mobile carrier | Status |
 |---|---|---|---|---|---|---|:---:|
 | Google Pixel 6 | 16 | Stock | 13.6.0, root | 1.0-beta.1 | Ростелеком | - | ✅ |
