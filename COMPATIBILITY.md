@@ -1,6 +1,6 @@
 # Compatibility
 
-This list contains community-tested configurations.
+Таблица протестированных устройств.
 
 | Device | Android | ROM | Shizuku | DesyncDroyd | Broadband provider | Mobile carrier | Status |
 |---|---|---|---|---|---|---|:---:|
